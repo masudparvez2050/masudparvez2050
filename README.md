@@ -1,4 +1,4 @@
-![Web Developer](https://masudur-rahman.xyz/cover%20picture.jpeg)
+![Web Developer](https://masudur-rahman.xyz/cover_page.jpg)
 ### Hi there 👋, I'm Masudur Rahman
 #### Web Developer
 
