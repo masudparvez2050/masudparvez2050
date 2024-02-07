@@ -4,7 +4,7 @@
 
 "Hi, I'm Masudur Rahman, a MERN Stack web developer creating dynamic and responsive websites. I have a passion for coding and learning new technologies. I'm looking for new opportunities to showcase my skills and collaborate with other developers."
 
-Skills: HTML / CSS / BOOTSTRAP / REACT / REACT NATIVE / JS / NodeJS / MongoDB
+Skills: HTML / CSS / BOOTSTRAP / REACT / NEXTJS / REACT NATIVE / JS / NodeJS / MongoDB
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning MERN Stack 
