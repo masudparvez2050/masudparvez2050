@@ -1,4 +1,4 @@
-![Web Developer](<a href="https://gitroll.io/profile/uwywA9AUSCfVofIEI5UHEW3uvOLf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uwywA9AUSCfVofIEI5UHEW3uvOLf1" alt="GitRoll Profile Badge"/></a> )
+![Web Developer](https://masudur-rahman.xyz/cover_page.jpg)
 ### Hi there 👋, I'm Masudur Rahman
 #### Web Developer
 
@@ -34,4 +34,4 @@ Skills: HTML / CSS / BOOTSTRAP / REACT / NEXTJS / REACT NATIVE / JS / NodeJS / M
 
 ![Profile views](https://gpvc.arturio.dev/masudparvez2050)  
 
-
+<a href="https://gitroll.io/profile/uwywA9AUSCfVofIEI5UHEW3uvOLf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uwywA9AUSCfVofIEI5UHEW3uvOLf1" alt="GitRoll Profile Badge"/></a>
