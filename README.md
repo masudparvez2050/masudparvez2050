@@ -4,7 +4,7 @@
 
 "Hi, I'm Masudur Rahman, a MERN Stack web developer creating dynamic and responsive websites. I have a passion for coding and learning new technologies. I'm looking for new opportunities to showcase my skills and collaborate with other developers."
 
-Skills: HTML / CSS / BOOTSTRAP / REACT / NEXTJS / REACT NATIVE / JS / NodeJS / MongoDB
+Skills: HTML / CSS / BOOTSTRAP / JS / REACT / NEXTJS / FLUTTER / NodeJS / EXPRESS / MongoDB / MYSQL
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning MERN Stack 
@@ -26,12 +26,12 @@ Skills: HTML / CSS / BOOTSTRAP / REACT / NEXTJS / REACT NATIVE / JS / NodeJS / M
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudparvez2050&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masudparvez2050)  
 
-![GitHub metrics](https://metrics.lecoq.io/masudparvez2050)  
+
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masudparvez2050)  
 
-![Profile views](https://gpvc.arturio.dev/masudparvez2050)  
+
 
 <a href="https://gitroll.io/profile/uwywA9AUSCfVofIEI5UHEW3uvOLf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uwywA9AUSCfVofIEI5UHEW3uvOLf1" alt="GitRoll Profile Badge"/></a>
