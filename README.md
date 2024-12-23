@@ -1,37 +1,88 @@
-![Web Developer](https://masudur-rahman.xyz/cover_page.jpg)
-### Hi there 👋, I'm Masudur Rahman
-#### Web Developer
+![Header](https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub%20Profile!&animation=fadeIn&type=waving&color=gradient&height=100)
 
-"Hi, I'm Masudur Rahman, a MERN Stack web developer creating dynamic and responsive websites. I have a passion for coding and learning new technologies. I'm looking for new opportunities to showcase my skills and collaborate with other developers."
+# 👋 Hello, I'm Masudur Rahman
 
-Skills: HTML / CSS / BOOTSTRAP / JS / REACT / NEXTJS / FLUTTER / NodeJS / EXPRESS / MongoDB / MYSQL
+I'm a passionate **Full Stack Web Developer** specializing in modern web technologies. With expertise in **MERN stack** and **Flutter**, I create dynamic, responsive, and user-friendly applications. I'm always eager to learn new technologies and contribute to exciting projects.
 
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning MERN Stack 
-- 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with Web Development Internship 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Linkedin 
+---
 
+## 🌍 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/masudparvez2050)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/masudur-rahman-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/masudparvez2050)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/masudparvez2050/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.masudur-rahman.xyz)  
+- 🔭 Currently working on **full-stack applications** and **cross-platform mobile apps**
+- 🌱 Learning **advanced Flutter** and **Next.js backend API routes**
+- 🤝 Open to collaboration and innovative projects
+- ⚡ Fun fact: I believe coding is like solving puzzles—it’s challenging but super rewarding!
 
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+## 🛠️ My Technical Toolbox
 
+| **Frontend**       | **Backend**       | **Databases**       | **Version Control** | **Other Tools**                |
+|---------------------|-------------------|---------------------|---------------------|---------------------------------|
+| HTML, CSS, SCSS     | Node.js           | MongoDB, MySQL      | Git, GitHub         | RESTful APIs, UI/UX Design     |
+| Bootstrap, Tailwind | Express.js        | Firebase            |                     | Responsive Design              |
+| JavaScript, React   |                   |                     |                     | Vercel, Netlify, Docker         |
+| Next.js, Flutter    |                   |                     |                     |                                |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=masudparvez2050)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudparvez2050)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudparvez2050&show_icons=true)  
+<div align="center">
+  
+![Masudur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masudparvez2050&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masudparvez2050&layout=compact&theme=radical)
 
+</div>
 
+---
 
+## 🌐 Connect with Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome)](https://masudur-rahman.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/masudur-rahman-dev)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/masudparvez2050)  
+[![Email](https://img.shields.io/badge/Email-Masud-blue?style=flat&logo=gmail)](mailto:your-email@example.com)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=masudparvez2050)  
+---
 
+## 🎯 Current Focus
 
+- **MERN Stack Development:** Crafting full-stack web applications.
+- **Flutter:** Exploring advanced cross-platform app development.
+- **Next.js Backend:** Building robust APIs and performing CRUD operations.
 
-<a href="https://gitroll.io/profile/uwywA9AUSCfVofIEI5UHEW3uvOLf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uwywA9AUSCfVofIEI5UHEW3uvOLf1" alt="GitRoll Profile Badge"/></a>
+---
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Asynchronous JavaScript](https://your-blog-link.com/understanding-asynchronous-javascript)
+- [A Guide to Responsive Web Design](https://your-blog-link.com/guide-to-responsive-web-design)
+- [Getting Started with Next.js](https://your-blog-link.com/getting-started-with-nextjs)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎨 Featured Projects
+
+Here are a few highlights from my GitHub repositories:
+
+| Project Name               | Description                                                   | Tech Stack       |
+|----------------------------|---------------------------------------------------------------|------------------|
+| **Project Manager**        | Task tracking and organization app with dynamic categories.  | React, Context API, Reducer |
+| **Product List**           | E-commerce application with cart functionality.              | React, REST APIs |
+| **Blood Bank Management**  | Next.js system for donor registration and data management.   | Next.js, MongoDB |
+| **Islamic App**            | Flutter app with Salat time, Qibla direction, and Quran.     | Flutter, Firebase|
+
+Check out more projects [here](https://github.com/masudparvez2050?tab=repositories).
+
+---
+
+## 💬 Let's Connect!
+
+I'm always excited to connect with other developers, exchange ideas, and work on inspiring projects together. Reach out anytime!
+
+---
+
+*Generated with ❤️ by Masudur Rahman*
