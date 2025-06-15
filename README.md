@@ -58,7 +58,7 @@
 - 🔭 **Currently Building:** AI-powered web applications and automation tools
 - 🌱 **Always Learning:** Advanced **React patterns**, **Node.js microservices**, and **AI/ML integration**
 - 👯 **Collaboration:** Open to exciting projects in **full-stack development** and **AI solutions**
-- 🎯 **2024 Goals:** Contribute to 10+ open source projects and master advanced DevOps
+- 🎯 **2025 Goals:** Contribute to 10+ open source projects and master advanced DevOps
 - 💬 **Ask me about:** React, Node.js, MongoDB, AI integration, or anything tech!
 - ⚡ **Fun fact:** I debug code faster with coffee ☕ and solve problems by breaking them into smaller pieces
 
@@ -300,7 +300,7 @@ CSS           0 hrs 45 mins  ▓░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎯 Current Goals & Vision 2024
+## 🎯 Current Goals & Vision 2025
 
 <div align="center">
 
@@ -328,7 +328,7 @@ Current:
 </td>
 <td width="33%" align="center">
 
-**🏆 2024 Goals**
+**🏆 2025 Goals**
 
 ```yaml
 Technical:
@@ -377,7 +377,7 @@ Impact:
 - 🚀 [Complete Guide to Next.js 14 App Router](https://dev.to/masudparvez2050)
 - 💡 [Modern JavaScript ES2024 Features Every Developer Should Know](https://hashnode.com/@masudparvez2050)
 - 🎯 [Building Real-time Applications with Socket.io and React](https://blog.example.com)
-- 🌟 [Best Practices for Node.js API Development in 2024](https://blog.example.com)
+- 🌟 [Best Practices for Node.js API Development in 2025](https://blog.example.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
